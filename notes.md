@@ -21,6 +21,8 @@ https://github.com/William-Yeh/docker-enabled-vagrant/tree/master/ubuntu-trusty
 https://github.com/tdi/vagrant-docker-swarm/blob/master/provision.sh
 
 
+photon OS?
+https://vmware.github.io/photon/
 
 
 

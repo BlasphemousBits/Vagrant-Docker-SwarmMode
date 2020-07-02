@@ -2,6 +2,7 @@
 Some similar projects
 https://github.com/denverdino/docker-swarm-mode-vagrant/blob/master/Vagrantfile
 https://github.com/31z4/vagrant-boot2docker-swarm/blob/master/Vagrantfile
+https://followkman.com/2016/07/27/vagrant-up-on-windows-10-with-hyper-v/
 
 OS image I wanted
 https://app.vagrantup.com/ubuntu/boxes/focal64
@@ -42,3 +43,10 @@ Need to look into this error:
 
     mount error(13): Permission denied
     Refer to the mount.cifs(8) manual page (e.g. man mount.cifs)
+
+
+
+
+    ------------------------------
+    Need to add your user to hyper-v administrators local group
+    

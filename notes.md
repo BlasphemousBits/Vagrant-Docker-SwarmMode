@@ -13,6 +13,10 @@ https://app.vagrantup.com/bento/boxes/ubuntu-16.04
 Vagrantfile info
 https://www.vagrantup.com/docs/vagrantfile/
 
+Somewhat out of date tips from Microsoft
+https://docs.microsoft.com/en-us/virtualization/community/team-blog/2017/20170706-vagrant-and-hyper-v-tips-and-tricks#tip-1-set-up-networking-correctly
+https://docs.microsoft.com/en-us/virtualization/community/team-blog/2017/20170718-copying-files-into-a-hyper-v-vm-with-vagrant
+
 Docker Swarm Info
 https://dockerswarm.rocks/#install-a-new-linux-server-with-docker
 https://docs.docker.com/engine/install/ubuntu/
